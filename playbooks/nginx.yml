@@ -1,0 +1,5 @@
+- hosts: all
+  vars:
+    page_name: SOPO    
+  roles:
+    - nginx-role

@@ -1,0 +1,3 @@
+- src: https://github.com/nikaorl/nginx-role.git
+  scm: git
+  version: master
